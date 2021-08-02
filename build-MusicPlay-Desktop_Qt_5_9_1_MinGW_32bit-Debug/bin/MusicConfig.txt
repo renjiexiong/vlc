@@ -1,0 +1,7 @@
+[AppConfig]
+AppSkin=5.png
+AppPlayMode=0
+AppTitle=?????
+AppStyle=blue.css
+AutoRun=false
+IsPlaying=true
